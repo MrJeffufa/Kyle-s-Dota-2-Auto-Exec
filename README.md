@@ -5,7 +5,7 @@ Move the "binds" file into the dota 2 cfg file. You do this by going to "This PC
 
 Once there you follow this path of folders
 
-\Steam\steamapps\common\dota 2 beta\game\dota\cfg
+\Steam\steamapps\common\dota 2\game\dota\cfg
 
 Place the file into the cfg folder and title it as autoexec.cfg
 
