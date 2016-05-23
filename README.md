@@ -3,6 +3,8 @@ This file contains a bind that allows you to bind what ever to whatever.If you w
 
 Move the "binds" file into the dota 2 cfg file. You do this by going to "This PC" and opening the drive the game is saved on. Once there you open the folder titled as "Program Files (x86)
 
+Mac may be different. Just find where the steam folder is stored
+
 Once there you follow this path of folders
 
 \Steam\steamapps\common\dota 2\game\dota\cfg
